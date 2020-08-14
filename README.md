@@ -1,6 +1,6 @@
 # Cracking Passwords with Cheap Hardware at Defcon
 
-There were roughly 30 'Street' teams that participated in Korelogic's (2020 Crack Me If You Can (CMIYC) password cracking contest at Defcon)[https://contest-2020.korelogic.com/] this year. I took 4th place. 
+There were roughly 30 'Street' teams that participated in Korelogic's [2020 Crack Me If You Can password cracking contest at Defcon](https://contest-2020.korelogic.com/) this year. I took 4th place. 
 
 Some of the teams had two or three team members (some had more) and used multiple high end GPUs. It's always fun to beat these teams using cheap hardware and homemade software. 
 
