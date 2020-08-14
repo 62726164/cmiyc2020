@@ -59,5 +59,7 @@ The contest was fun. It always is. It's a great way to learn more about hacking,
 
 ## Pot Files
 
-  * kl.jtr.pot.txt
+Some of these were cracked during the contest while others were cracked after. I've lost a few cracks too, since the contest ended.
+
+  * [kl.jtr.pot.txt](kl.jtr.pot.txt)
   * [kl.hc.pot.txt](kl.hc.pot.txt)
