@@ -6,11 +6,11 @@ Some of the teams had two or three team members (some had more) and used multipl
 
 ## Hardware I used
 
-I used my home desktop to crack the hashes. I built it from parts in August 2019 (new egg). My GPU is rather under powered, but worked OK for most hashes. My CPU is a first generation AMD Ryzen Threadripper (which isn't too shabby but pales in comparison to the third gen Threadripper). In total, I paid about $1,900 US dollars for the parts.
+I used my home desktop to crack the hashes. I built it from parts in August 2019 (new egg). My GPU is rather under powered, but worked OK for most hashes. My CPU is a first generation AMD Ryzen Threadripper (which isn't too shabby but pales in comparison to the third gen Threadripper). In total, it cost about $1,900 US dollars to build the computer.
 
 ```bash
 $ lspci | grep -i nvidia
-08:00.0 VGA compatible controller: NVIDIA Corporation GP104 [GeForce GTX 1060 6GB] (rev a1)
+08:00.0 VGA compatible controller: NVIDIA Corporation GP104 [GeForce GTX 1060 6GB]
 ```
 
 ```bash
