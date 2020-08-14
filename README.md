@@ -53,6 +53,8 @@ The keychain hashes were capitalized passphrases such as 'Abidewithme', 'Whenpig
 
 For some reason, Hashcat did not recognize all the the PBKDF2-HMAC-SHA256 hashes. There were 1,000 but Hashcat only saw 528. These hashes were really too difficult for John and my CPU to handle. I did uncover the pattern (after the contest had ended) and cracked most of them. **Update:** The hash/digest portion of 472 of the PBKDF2-HMAC-SHA256 hashes contained periods (which is an invalid base64 character). The salts were all valid. I wrote a small Go program to figure this out and correct it. I'm not sure if this was intentional or an accident. Either way, kudos to the teams who figured this out and cracked these during the contest. My failure to crack these (during the contest) is the main reason I was 4th instead of 3rd.
 
+View my pot files (linked below) to see what other types of patterns wm found in other hash types.
+
 ## Conclusion
 
 The contest was fun. It always is. It's a great way to learn more about hacking, cracking and encryption. I encourage everyone who likes to write code and fiddle with computers to try it next year. A big thanks to Hank and the Korelogic team for putting on the contest this year despite the pandemic.
