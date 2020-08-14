@@ -12,7 +12,6 @@ I used my home desktop to crack the hashes. I built it from parts in August 2019
 $ lspci | grep -i nvidia
 08:00.0 VGA compatible controller: NVIDIA Corporation GP104 [GeForce GTX 1060 6GB]
 ```
-
 ```bash
 $ grep "model name" /proc/cpuinfo | sort -u
 model name : AMD Ryzen Threadripper 1950X 16-Core Processor
