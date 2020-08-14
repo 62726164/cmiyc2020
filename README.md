@@ -56,3 +56,8 @@ Update: The hash/digest portion of 472 of these hashes contained periods (which 
 ## Conclusion
 
 The contest was fun. It always is. It's a great way to learn more about hacking, cracking and encryption. I encourage everyone who likes to write code and fiddle with computers to try it next year. A big thanks to Hank and the Korelogic team for putting it on this year despite the pandemic.
+
+## Pot Files
+
+  * kl.jtr.pot.txt
+  * [kl.hc.pot.txt](kl.hc.pot.txt)
