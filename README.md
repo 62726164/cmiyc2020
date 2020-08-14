@@ -2,7 +2,7 @@
 
 There were roughly 30 Street teams that participated in Korelogic's [2020 Crack Me If You Can](https://contest-2020.korelogic.com/) password cracking contest at Defcon this year. [I took 4th place](https://contest-2020.korelogic.com/graphs-street.html).
 
-Some of the teams had two or three team members (some had more) and used multiple high end GPUs. It's always fun to compete with these teams using cheap hardware and homemade software. I normally place 3rd, 4th or 5th. I won it in [2013](https://contest-2013.korelogic.com/teams.html). If I do it again next year, I may try to find a team to join. I think it's best to work with two or three team members so the work can be divided up a bit.
+Some of the teams had two or three team members (some had more) and used multiple high end GPUs. It's always fun to compete with these teams using cheap hardware and homemade software. I normally place 3rd, 4th or 5th. I won in [2013](https://contest-2013.korelogic.com/teams.html). If I do it again next year, I may try to find a team to join. I think it's best to work with a few team members so the work can be divided up a bit.
 
 ## Hardware I used
 
