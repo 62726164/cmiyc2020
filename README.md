@@ -57,9 +57,10 @@ For some reason, Hashcat did not recognize all the the PBKDF2-HMAC-SHA256 hashes
 
 The contest was fun. It always is. It's a great way to learn more about hacking, cracking and encryption. I encourage everyone who likes to write code and fiddle with computers to try it next year. A big thanks to Hank and the Korelogic team for putting on the contest this year despite the pandemic.
 
-## Pot Files
+## The Hashes and My Pot Files
 
-Some of these hashes were cracked during the contest while others were cracked after it ended. I like to crack some of each type so that I understand the patterns that were used to create the passwords. I've lost a few cracks, too, since the contest ended.
+Some of these hashes were cracked during the contest while others were cracked after it ended. I like to crack some of each type so that I understand the patterns that were used to create the passwords. I've lost a few cracks, too, since the contest ended. Also, the hash file contains the fixed PBKDF2-HMAC-SHA256 hashes and the originals (oracle11 too). 
 
   * [kl.jtr.pot.txt](kl.jtr.pot.txt)
   * [kl.hc.pot.txt](kl.hc.pot.txt)
+  * [hashes.txt](hashes.txt)
