@@ -55,11 +55,11 @@ For some reason, Hashcat did not recognize all the the PBKDF2-HMAC-SHA256 hashes
 
 ## Conclusion
 
-The contest was fun. It always is. It's a great way to learn more about hacking, cracking and encryption. I encourage everyone who likes to write code and fiddle with computers to try it next year. A big thanks to Hank and the Korelogic team for putting it on this year despite the pandemic.
+The contest was fun. It always is. It's a great way to learn more about hacking, cracking and encryption. I encourage everyone who likes to write code and fiddle with computers to try it next year. A big thanks to Hank and the Korelogic team for putting on the contest this year despite the pandemic.
 
 ## Pot Files
 
-Some of these were cracked during the contest while others were cracked after. I've lost a few cracks too, since the contest ended.
+Some of these were hashes cracked during the contest while others were cracked after. I've lost a few cracks, too, since the contest ended.
 
   * [kl.jtr.pot.txt](kl.jtr.pot.txt)
   * [kl.hc.pot.txt](kl.hc.pot.txt)
