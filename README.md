@@ -41,9 +41,9 @@ model name : AMD Ryzen Threadripper 1950X 16-Core Processor
 
 ## My Approach
 
-I used wm (my homemade software written in Go) to generate common password patterns (appends, prepends, inserts, etc.). The generated patterns were piped to Hashcat or John via stdin for cracking. Once I found a pattern for a certain user or type of hash, then I configured wm to focus on that particular pattern for awhile.
+I used word machine (my homemade software written in Go) to generate common password patterns (appends, prepends, inserts, etc.). The generated patterns were piped to Hashcat or John via stdin for cracking. Once I found a pattern for a certain user or type of hash, then I configured wm to focus on that particular pattern for awhile. Below are a few examples.
 
-For example, the sha512crypt hashes I cracked were largely made up of two words ('fuck' and 'shit') with common numeric appends and prepends. Once wm discovered that, I began focusing on just those two words and that specific pattern. I think I cracked about 1/3 of the sha512crypts on the first day of the contest. Because of this, I took the lead and held it for awhile.
+The sha512crypt hashes I cracked were largely made up of two words ('fuck' and 'shit') with common numeric appends and prepends. Once wm discovered that, I began focusing on just those two words and that specific pattern. I think I cracked about 1/3 of the sha512crypts on the first day of the contest. Because of this, I took the lead and held it for awhile.
 
 sha512crypt is a hard, slow hash to attack and many teams didn't bother trying. While simple cryptographic hashes, such as sha1, are much faster to attack, they were not worth many points. A raw-sha1 crack earned only 1 point. A sha512crypt crack earned 800,000 points. I cracked 220 of them.
 
