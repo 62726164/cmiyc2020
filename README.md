@@ -6,7 +6,7 @@ Some of the teams had two or three team members (some had more) and used multipl
 
 ## Hardware I used
 
-I used my home desktop to crack the hashes. It's just over a year old. I built it from parts in July 2019. I used the GPU to do most of the cracking. It's under powered, compared to high end units, but worked OK for most hashes. My CPU is a first generation AMD Ryzen Threadripper (which isn't too shabby but pales in comparison to the third gen Threadripper). I only used the CPU to crack the keychain hashes (see explanation below). In total, it cost about $1,900 US dollars to build this computer.
+I used my home desktop to crack the hashes. It's just over a year old. I built it from parts in July 2019. I used the GPU to do most of the cracking. It's under powered, compared to high end units, but worked OK for most hashes. My CPU is a first generation AMD Ryzen Threadripper (which isn't too shabby but pales in comparison to the third gen Threadripper). I only used the CPU to crack the keychain hashes (see explanation below). In total, it cost about $1,900 US dollars to build this computer and I typically use computers like this for five to seven years before building another.
 
 ```bash
 $ lspci | grep -i nvidia
